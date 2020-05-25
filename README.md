@@ -1,4 +1,4 @@
-# Program do upraszczania wyrażeń regularnych.
+# Program do upraszczania wyrażeń logicznych.
 
 ##### Autorzy:
 ### Sylwester M.
